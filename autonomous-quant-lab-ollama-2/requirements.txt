@@ -1,0 +1,10 @@
+yfinance
+edgartools
+backtrader
+chromadb
+ollama
+langgraph
+fastapi
+uvicorn
+pydantic
+python-dotenv
